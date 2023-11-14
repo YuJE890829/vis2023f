@@ -1,0 +1,14 @@
+{
+  "name": "619a2a42075fece4",
+  "main": "619a2a42075fece4@17.js",
+  "version": "17.0.0",
+  "homepage": "https://observablehq.com/d/619a2a42075fece4",
+  "author": {
+    "name": "游子龍's Workspace",
+    "url": "https://observablehq.com/@you-zi-long-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
