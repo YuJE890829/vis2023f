@@ -1,0 +1,14 @@
+{
+  "name": "10bc611d35a987a2",
+  "main": "10bc611d35a987a2@33.js",
+  "version": "33.0.0",
+  "homepage": "https://observablehq.com/d/10bc611d35a987a2",
+  "author": {
+    "name": "游子龍's Workspace",
+    "url": "https://observablehq.com/@you-zi-long-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

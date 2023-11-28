@@ -1,0 +1,14 @@
+{
+  "name": "bee4872282fc0b10",
+  "main": "bee4872282fc0b10@20.js",
+  "version": "20.0.0",
+  "homepage": "https://observablehq.com/d/bee4872282fc0b10",
+  "author": {
+    "name": "游子龍's Workspace",
+    "url": "https://observablehq.com/@you-zi-long-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
